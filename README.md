@@ -11,7 +11,7 @@ ios: https://redirect.appmetrica.yandex.com/serve/99708109685061445
 
 android: https://redirect.appmetrica.yandex.com/serve/1108514430494260799
 
-site: https://sokratapp.ru/
+site: https://sokratapp.ru/ (В разработаке)
 
 Сейчас Sokrat - это полноценное MVP, которое решает первостепенные задачи пользователей и хорошо закрепившееся в магазинах приложений. Пришло время ему стать технологичнее, для того чтобы ускорить рост и начать активную фазу масштабирования.
 
